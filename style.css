@@ -1,0 +1,46 @@
+.content{
+   margin-left:202px;
+   margin-top:154px ;
+   margin-right:349px;
+ }
+h1{
+    color: white;
+    font-style: Inter;
+    font-weight:400;
+    font-size: 64px;
+    /* line-height: 77.45px; */
+    /* width:600px; */
+    /* height:144px;
+    top:154px;
+    Left:202px; */
+}
+ .item{
+    border:none;
+    width:100%;
+    background-color: black;
+    color: white; 
+ }
+
+ .item:hover{
+    
+    border: 1px solid #fe2727;
+    
+ }
+
+body{
+    background-color: black;
+}
+.radio{
+    color:white;
+    background-color: black;
+}
+.btn{
+    /* font-weight:300;
+    font-size:24px; */
+    padding-left:66px;
+    padding-right:77px;
+    padding-top:12px;
+    padding-bottom:13px;
+}
+
+
